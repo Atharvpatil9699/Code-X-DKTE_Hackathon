@@ -1,0 +1,7 @@
+{
+  "name": "CivicResolve AI",
+  "description": "Smart Civic Issue Resolution Agent with multi-modal reporting, agentic triage, SLA monitoring, and automated escalation.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
